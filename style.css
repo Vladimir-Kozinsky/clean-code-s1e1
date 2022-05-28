@@ -34,6 +34,9 @@ body {
     margin: 0 auto 0;
 }
 
+.section {
+    margin: 16px 0;
+}
 .task {
     width: 56%;
     display: inline-block;
