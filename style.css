@@ -56,11 +56,13 @@ body {
 }
 
 .section__item,
-h3 {
+
+.section__title {
     list-style: none;
 }
 
-input, 
+.task__input,
+.task__checkbox,
 .task__button {
     outline: none;
 }
@@ -81,7 +83,6 @@ input,
 
 /* Heading */
 
-h3,
 .section__title {
     color: #333;
     font-weight: 700;
